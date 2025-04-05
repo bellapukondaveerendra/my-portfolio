@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.33c81e5c.css",
-    "main.js": "/my-portfolio/static/js/main.c173dc39.js",
+    "main.js": "/my-portfolio/static/js/main.cb2c08ff.js",
     "static/js/787.fb771931.chunk.js": "/my-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/driver-drowsiness.jpg": "/my-portfolio/static/media/driver-drowsiness.62944e48721542f6c315.jpg",
     "static/media/contact-img.jpg": "/my-portfolio/static/media/contact-img.7d0b30046584a1f0a356.jpg",
@@ -13,6 +13,7 @@
     "static/media/voice-controlled-bot.jpg": "/my-portfolio/static/media/voice-controlled-bot.3b12e1235a2870bdce28.jpg",
     "static/media/color-sharp.png": "/my-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/my-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/AI-car-driving.jpg": "/my-portfolio/static/media/AI-car-driving.955be34cd27bcba6de63.jpg",
     "static/media/banner-bg.png": "/my-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/subtitle-AI.png": "/my-portfolio/static/media/subtitle-AI.1352faf65c90b22ac2db.png",
     "static/media/CentraNo2-Bold.ttf": "/my-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -37,11 +38,11 @@
     "static/media/arrow2.svg": "/my-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/my-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.33c81e5c.css.map": "/my-portfolio/static/css/main.33c81e5c.css.map",
-    "main.c173dc39.js.map": "/my-portfolio/static/js/main.c173dc39.js.map",
+    "main.cb2c08ff.js.map": "/my-portfolio/static/js/main.cb2c08ff.js.map",
     "787.fb771931.chunk.js.map": "/my-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33c81e5c.css",
-    "static/js/main.c173dc39.js"
+    "static/js/main.cb2c08ff.js"
   ]
 }
