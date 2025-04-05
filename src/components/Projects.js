@@ -13,6 +13,7 @@ import projImg10 from "../assets/img/darwinbox.png";
 import projImg11 from "../assets/img/darwinbox1.png";
 import projImg12 from "../assets/img/darwinbox2.png";
 import projImg13 from "../assets/img/salient-mind.png";
+import projImg14 from "../assets/img/AI-car-driving.jpg";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
@@ -25,6 +26,12 @@ export const Projects = () => {
       description:
         "Real-time speech-to-text & subtitle overlay tool using OpenAI Whisper",
       imgUrl: projImg1,
+    },
+    {
+      title: "AI-Powered Self-Driving Car Simulation",
+      description:
+        "Neural Network from scratch to enable AI-based driving decisions",
+      imgUrl: projImg14,
     },
     {
       title: "AI Interview Simulator",

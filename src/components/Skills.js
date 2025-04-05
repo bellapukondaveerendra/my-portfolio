@@ -41,10 +41,10 @@ export const Skills = () => {
                 working with REST APIs, MongoDB, SQL, and cloud services like
                 AWS.<br></br> My AI/ML work includes using OpenAI, Whisper,
                 BERT, and deep learning frameworks like PyTorch and TensorFlow.
-                I'm also proficient with Git, Docker, and have worked on data
-                visualization tools like Power BI. I enjoy solving complex
-                problems by combining backend engineering with AI-driven
-                solutions
+                <br></br>I'm also proficient with Git, Docker, and have worked
+                on data visualization tools like Power BI. <br></br>I enjoy
+                solving complex problems by combining backend engineering with
+                AI-driven solutions.
               </p>
               <Carousel
                 responsive={responsive}
